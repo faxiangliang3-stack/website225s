@@ -65,7 +65,7 @@ export function ContactSection() {
               为自然风时令主题餐厅「四时院」打造的品牌VI设计，以红日、绿叶、粉花、水滴构建品牌标识；提取春绿、夏红、秋黄、冬蓝为品牌标准色，从标识组合、视觉限制区到辅助图形完成全体系标准化设计。
             </p>
             <a
-              href="/VI手册.pdf"
+              href="https://my.feishu.cn/file/L0web9MhVosKnqx7QClcSXg8npe?from=from_copylink"
               target="_blank"
               rel="noopener noreferrer"
               className="block mt-3 text-accent hover:underline text-sm"
@@ -79,10 +79,10 @@ export function ContactSection() {
         <div className="flex flex-col md:flex-row gap-6 items-start">
           <div className="flex-[2] min-w-0 flex flex-col md:flex-row gap-6">
             <div className="flex-1">
-              <VideoCard src="/videos/动态海报.mp4" />
+              <iframe src="https://player.xinpianchang.com/?aid=13605865&amp;mid=3Yn57pW8zWLQdDAa" allowFullScreen allow="fullscreen" frameBorder="0" style={{ border: 'none', width: '100%', aspectRatio: '16/9' }}></iframe>
             </div>
             <div className="flex-1">
-              <VideoCard src="/videos/变幻的四季 动态海报.mp4" />
+              <iframe src="https://player.xinpianchang.com/?aid=13605871&mid=9WxJ7lLB8Ln781kM" allowFullScreen allow="fullscreen" frameBorder="0" style={{ border: 'none', width: '100%', aspectRatio: '16/9' }}></iframe>
             </div>
           </div>
           <div className="md:w-64 flex-shrink-0">
