@@ -14,7 +14,7 @@ export function ContactSection() {
         <div className="flex flex-col md:flex-row gap-6 items-start mb-6">
           <div className="flex-[2] min-w-0 rounded-lg overflow-hidden border border-border bg-card">
             <Image
-              src="/珍珠包装设计.jpg"
+              src="/珍珠包装设计.webp"
               alt="珍珠包装设计"
               width={1280}
               height={854}
@@ -53,7 +53,7 @@ export function ContactSection() {
         <div className="flex flex-col md:flex-row gap-6 items-start mb-6">
           <div className="flex-[2] min-w-0 rounded-lg overflow-hidden border border-border bg-card">
             <Image
-              src="/VIsss_画板 1.jpg"
+              src="/VIsss_画板 1.webp"
               alt="VI设计"
               width={1280}
               height={854}

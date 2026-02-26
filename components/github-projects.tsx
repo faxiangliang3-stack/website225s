@@ -17,7 +17,7 @@ export default function GitHubProjects() {
       <div className="flex flex-col md:flex-row gap-6 items-start">
         <div className="flex-[2] min-w-0 rounded-lg overflow-hidden border border-border bg-card">
           <Image
-            src="/ecommerce-product.jpg"
+            src="/ecommerce-product.webp"
             alt="ecommerce design"
             width={1280}
             height={854}
@@ -35,7 +35,7 @@ export default function GitHubProjects() {
       <div className="flex flex-col md:flex-row gap-6 items-start">
         <div className="flex-[2] min-w-0 rounded-lg overflow-hidden border border-border bg-card">
           <Image
-            src="/science-checkin.png"
+            src="/science-checkin.webp"
             alt="science spirit check-in"
             width={1920}
             height={1080}
